@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/poojithadarmapuri.lwc-l95td10f-fork-l95u561f",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve iXAVgAKEaIKmsGgQIbZa --open"
+  }
+}
